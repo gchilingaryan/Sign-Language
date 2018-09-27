@@ -98,20 +98,3 @@ def test(model, testing_data, test_label):
 if __name__ == "__main__":
     model, testing_data, test_label = train()
     test(model, testing_data, test_label)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
